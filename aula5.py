@@ -1,3 +1,4 @@
 # boolean
 # só existem duas respostas:
-# true (verdadeiro) e false (falso)
+# True (verdadeiro) e False (falso)
+print(10 == 10) # True
